@@ -1,2 +1,3 @@
 # String-to-hash-converter
-Strings to hash?? Just check it out ... Its simple
+Strings to hash?? 
+Run it and input :)
